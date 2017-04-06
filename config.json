@@ -39,11 +39,12 @@
       "hoverFontStyle": "bold",
       "defaultLabelSize": 14
     },
+"sigma": {
     "graphProperties": {
       "maxEdgeSize": 0.5,
+      "maxNodeSize": 100,
       "minEdgeSize": 0.2,
-      "minNodeSize": 1,
-      "maxNodeSize": 100
+      "minNodeSize": 1
     },
     "mouseProperties": {
       "maxRatio": 20,
